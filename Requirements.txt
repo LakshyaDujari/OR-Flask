@@ -1,0 +1,9 @@
+Pillow
+flask
+pyzbar
+deepface
+cv2
+matplotlib
+numpy
+uuid
+werkzeug
